@@ -6,7 +6,7 @@ A robust, full-stack server-side application designed for administrative managem
 
 Since this is a secure backend platform that handles raw data processing, you can see how the interface renders and performs live operational actions below: 
 
-https://github.com/SarvinozAbdullaeva/ServiceApp-PHP/issues/1 Press Here
+👉 **[Press here to watch the demo video](https://github.com/SarvinozAbdullaeva/ServiceApp-PHP/issues/1)**
 
 ### ✨ Core Features
 
