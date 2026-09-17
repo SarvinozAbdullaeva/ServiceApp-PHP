@@ -6,10 +6,7 @@ A robust, full-stack server-side application designed for administrative managem
 
 Since this is a secure backend platform that handles raw data processing, you can see how the interface renders and performs live operational actions below: 
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="img/service-app-demo.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+https://github.com/SarvinozAbdullaeva/ServiceApp-PHP/issues/1
 
 ### ✨ Core Features
 
